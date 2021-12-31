@@ -1,2 +1,0 @@
-# practice-repository
-push operation is fail
